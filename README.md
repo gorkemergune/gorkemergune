@@ -6,8 +6,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
 ```yaml
 Name:       Görkem Ergüne
 University: Yeditepe University — Computer Science Engineering (1/4)
@@ -17,18 +15,6 @@ Location:   Istanbul, Turkey
 ```
 
 ---
-
-## 🔭 What I'm Up To
-
-- 🚀 **Building** [NEXA Community](https://nexa-tr.com) — growing a developer ecosystem
-- 🧠 **Exploring** LLM fine-tuning, Transformer architectures & RAG pipelines
-- 🛠️ **Working on** AI-powered backend projects
-- 📚 **Learning** advanced algorithms, distributed systems & MLOps
-- 💬 **Ask me about** Python, ML/DL, backend dev, or community building
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
@@ -44,8 +30,6 @@ Location:   Istanbul, Turkey
 
 ---
 
-## 📈 Contribution Graph
-
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GorkemParadise&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -53,8 +37,6 @@ Location:   Istanbul, Turkey
 </div>
 
 ---
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -100,8 +82,6 @@ Location:   Istanbul, Turkey
 
 ---
 
-## 🤝 Connect With Me
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gorkemergune)
@@ -115,7 +95,5 @@ Location:   Istanbul, Turkey
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GorkemParadise&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
-
-**"Building the future, one commit at a time."**
 
 </div>
