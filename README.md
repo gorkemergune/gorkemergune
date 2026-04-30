@@ -16,13 +16,13 @@ Location:   Istanbul, Turkey
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=GorkemParadise&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=gorkemergune&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" />
 
 </div>
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GorkemParadise&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gorkemergune&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook)
 
 </div>
 
