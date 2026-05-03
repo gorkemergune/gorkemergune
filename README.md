@@ -40,6 +40,6 @@ Location:   Istanbul, Turkey
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=GorkemParadise&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=gorkemergune&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
