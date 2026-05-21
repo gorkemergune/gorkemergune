@@ -16,15 +16,9 @@ Location:   Istanbul, Turkey
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=gorkemergune&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1"
-  width="49%"
-/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gorkemergune&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemergune&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1"
-  width="49%"
-/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gorkemergune&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
