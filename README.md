@@ -16,8 +16,15 @@ Location:   Istanbul, Turkey
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gorkemergune&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gorkemergune&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook" />
+<img 
+  width="49%" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=gorkemergune&show_icons=true&theme=tokyonight&hide_border=true" 
+/>
+
+<img
+  width="49%"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gorkemergune&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&hide=jupyter%20notebook"
+/>
 
 </div>
 
