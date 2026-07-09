@@ -10,8 +10,6 @@
 Name:       Görkem Ergüne
 University: Yeditepe University — Computer Engineering (2/4)
 Location:   Istanbul, Turkey
-Roles:      Algorithm Developer @ Yeditepe Automotive Team
-            AI Researcher @ Medipol Hospital (MRgFUS & Neurosurgical Imaging)
 Portfolio:  gorkemergune.github.io
 ```
 
