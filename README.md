@@ -8,19 +8,31 @@
 
 ```yaml
 Name:       Görkem Ergüne
-University: Yeditepe University — Computer Science Engineering (2/4)
+University: Yeditepe University — Computer Engineering (2/4)
 Location:   Istanbul, Turkey
+Roles:      Algorithm Developer @ Yeditepe Automotive Team
+            AI Researcher @ Medipol Hospital (MRgFUS & Neurosurgical Imaging)
+Portfolio:  gorkemergune.github.io
 ```
 
 ---
 
 <div align="center">
-  
+
+<a href="https://gorkemergune.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-gorkemergune.github.io-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 <img 
   width="49%" 
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=gorkemergune&show_icons=true&theme=tokyonight&hide_border=true" 
 />
-
 <img
   width="49%"
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gorkemergune&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&hide=jupyter%20notebook"
@@ -32,6 +44,7 @@ Location:   Istanbul, Turkey
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gorkemergune.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gorkemergune)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gorkemergune2@gmail.com)
 
