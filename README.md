@@ -8,7 +8,7 @@
 
 ```yaml
 Name:       Görkem Ergüne
-University: Yeditepe University — Computer Science Engineering (1/4)
+University: Yeditepe University — Computer Science Engineering (2/4)
 Location:   Istanbul, Turkey
 ```
 
