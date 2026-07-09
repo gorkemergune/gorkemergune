@@ -10,7 +10,6 @@
 Name:       Görkem Ergüne
 University: Yeditepe University — Computer Engineering (2/4)
 Location:   Istanbul, Turkey
-Portfolio:  gorkemergune.github.io
 ```
 
 ---
