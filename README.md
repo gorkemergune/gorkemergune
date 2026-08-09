@@ -25,15 +25,15 @@ Location:   Istanbul, Turkey
 ---
 
 <div align="center">
-
+  
 <img
   width="49%"
-  src="https://github-stats-extended.vercel.app/api?username=gorkemergune&show_icons=true&theme=tokyonight&hide_border=true"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=gorkemergune&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&hide=jupyter%20notebook"
 />
 
 <img
   width="49%"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=gorkemergune&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&hide=jupyter%20notebook"
+  src="https://github-stats-extended.vercel.app/api?username=gorkemergune&show_icons=true&theme=tokyonight&hide_border=true"
 />
 
 </div>
