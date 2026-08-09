@@ -28,7 +28,7 @@ Location:   Istanbul, Turkey
 
 <img 
   width="49%" 
-  src="https://github-readme-stats.vercel.app/api?username=gorkemergune&show_icons=true&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=gorkemergune&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
 />
 
 <img
