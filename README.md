@@ -19,15 +19,15 @@ Location:   Istanbul, Turkey
   <sub>Click to explore →</sub>
 </p>
 
-<a href="https://gorkemergune.github.io">
-  <img src="https://img.shields.io/badge/◈%20PORTFOLIO-00D9FF?style=for-the-badge&labelColor=080B14&color=00D9FF&logo=googlechrome&logoColor=00D9FF" />
-</a>
-
-&nbsp;&nbsp;│&nbsp;&nbsp;
-
-<a href="https://dayframe-sigma.vercel.app/">
-  <img src="https://img.shields.io/badge/◈%20DAYFRAME-LIVE%20APP-7C5CFF?style=for-the-badge&labelColor=080B14&color=7C5CFF&logo=googlechrome&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://gorkemergune.github.io">
+    <img src="https://img.shields.io/badge/◈%20PORTFOLIO-00D9FF?style=for-the-badge&labelColor=080B14&color=00D9FF&logo=googlechrome&logoColor=00D9FF" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://dayframe-sigma.vercel.app/">
+    <img src="https://img.shields.io/badge/◈%20DAYFRAME-LIVE%20APP-7C5CFF?style=for-the-badge&labelColor=080B14&color=7C5CFF&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 
 ---
