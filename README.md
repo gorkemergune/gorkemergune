@@ -27,8 +27,6 @@ Location:   Istanbul, Turkey
 </a>
 
 
-</div>
-
 ---
 
 <div align="center">
