@@ -17,11 +17,11 @@ Location:   Istanbul, Turkey
 <div align="center">
 
 <a href="https://gorkemergune.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-gorkemergune.github.io-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/◈%20PORTFOLIO-EXPLORE-00D9FF?style=for-the-badge&labelColor=080B14&color=00D9FF&logo=googlechrome&logoColor=00D9FF" />
 </a>
 
 <a href="https://dayframe-sigma.vercel.app/">
-  <img src="https://img.shields.io/badge/Dayframe-Plan%20Your%20Day-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/◈%20DAYFRAME-LIVE%20APP-7C5CFF?style=for-the-badge&labelColor=080B14&color=7C5CFF&logo=googlechrome&logoColor=white" />
 </a>
 
 
