@@ -14,7 +14,9 @@ Location:   Istanbul, Turkey
 
 ---
 
-<div align="center">
+<p align="center">
+  <sub>Click to explore →</sub>
+</p>
 
 <a href="https://gorkemergune.github.io">
   <img src="https://img.shields.io/badge/◈%20PORTFOLIO-EXPLORE-00D9FF?style=for-the-badge&labelColor=080B14&color=00D9FF&logo=googlechrome&logoColor=00D9FF" />
