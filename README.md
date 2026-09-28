@@ -14,12 +14,13 @@ Location:   Istanbul, Turkey
 
 ---
 
+
 <p align="center">
   <sub>Click to explore →</sub>
 </p>
 
 <a href="https://gorkemergune.github.io">
-  <img src="https://img.shields.io/badge/◈%20PORTFOLIO-EXPLORE-00D9FF?style=for-the-badge&labelColor=080B14&color=00D9FF&logo=googlechrome&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/◈%20PORTFOLIO-00D9FF?style=for-the-badge&labelColor=080B14&color=00D9FF&logo=googlechrome&logoColor=00D9FF" />
 </a>
 
 <a href="https://dayframe-sigma.vercel.app/">
@@ -48,7 +49,7 @@ Location:   Istanbul, Turkey
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gorkemergune.github.io)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ayarlicazhocam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gorkemergune)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gorkemergune2@gmail.com)
 
